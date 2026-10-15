@@ -1,0 +1,7 @@
+name: ml_tools
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - uv
+prefix: /opt/miniconda3/envs/ml_tools
